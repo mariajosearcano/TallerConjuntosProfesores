@@ -1,0 +1,35 @@
+2605783318::Gal Klossmann::Masculino::Ciencias Básicas::Pregrado::03/11/1998::Tiempo Completo::3::13
+3639244295::Shandeigh Ector::Femenino::Comunicación::Maestría::05/01/1933::Tiempo Completo::3::8
+1051663786::Hastings Snaddin::Masculino::Ciencias Básicas::Especialista::20/04/1961::Tiempo Completo::9::10
+7136842095::Gale Fittes::Femenino::Idiomas::Especialista::26/02/1963::Tiempo Completo::10::1
+6186285223::Olag Mathieu::Femenino::Comunicación::Doctorado::02/11/1995::Tiempo Completo::8::20
+6075934788::Alysa Robers::Masculino::Administración::Especialista::30/04/1992::Cátedra::5::4
+6881117523::Carmon Espin::Masculino::Ciencias Básicas::Doctorado::23/12/1959::Cátedra::2::3
+9907590850::Kale Strodder::Femenino::Ingeniería::Pregrado::17/10/1976::Cátedra::9::10
+3982159524::Lazaro Badcock::Femenino::Administración::Especialista::15/05/2008::Cátedra::5::3
+2403211333::Salaidh Durnall::Masculino::Ingeniería::Maestría::04/09/1999::Cátedra::10::8
+4155630769::Allegra Teall::Masculino::Deportes::Maestría::24/03/1952::Ocasional::3::1
+2271713344::Halli Nawton::Femenino::Ingeniería::Maestría::06/07/1996::Ocasional::3::9
+8243427822::Mariann Mousby::Masculino::Deportes::Especialista::19/10/1952::Ocasional::1::8
+4591713291::Stepha Itscovitz::Masculino::Idiomas::Pregrado::04/12/1998::Ocasional::1::16
+1889051109::Elsey Millsom::Masculino::Administración::Maestría::10/09/1985::Ocasional::9::18
+1888549456::Jeremy Inggall::Masculino::Deportes::Especialista::14/06/1948::Tiempo Completo-Cátedra::2::2
+6246013876::Jodie Shera::Masculino::Administración::Doctorado::23/04/1999::Tiempo Completo-Cátedra::1::1
+1712036441::Laurel Byrnes::Masculino::Administración::Pregrado::17/01/1933::Tiempo Completo-Cátedra::2::20
+7316581693::Brice Poulglais::Masculino::Administración::Pregrado::14/05/2001::Tiempo Completo-Cátedra::5::9
+9757693524::Kaleb Owtram::Femenino::Ingeniería::Doctorado::05/02/1996::Tiempo Completo-Cátedra::4::18
+1523585450::Ban Fouracres::Femenino::Ingeniería::Maestría::19/05/1934::Tiempo Completo-Ocasional::1::17
+4518817376::Jyoti Olivier::Masculino::Deportes::Maestría::26/05/1986::Tiempo Completo-Ocasional::2::11
+3880446540::Kinny Bodsworth::Masculino::Ingeniería::Maestría::16/07/1997::Tiempo Completo-Ocasional::5::15
+4467961024::Hayes Maskrey::Masculino::Ingeniería::Pregrado::23/12/1964::Tiempo Completo-Ocasional::2::9
+4050980162::Mildrid De Biasi::Femenino::Comunicación::Doctorado::04/07/1969::Tiempo Completo-Ocasional::1::13
+4536180283::Nathalia Carbine::Masculino::Ingeniería::Maestría::04/11/1958::Cátedra-Ocasional::2::16
+6263598953::Caspar Angelo::Masculino::Ciencias Básicas::Pregrado::28/12/1981::Cátedra-Ocasional::8::10
+6978287975::Bay Dunbobbin::Femenino::Ciencias Básicas::Especialista::11/10/1930::Cátedra-Ocasional::8::19
+4590686420::Liana Wilstead::Femenino::Idiomas::Maestría::16/07/1998::Cátedra-Ocasional::8::6
+1047733261::Colette Praten::Masculino::Administración::Maestría::14/04/1996::Cátedra-Ocasional::7::8
+9639056593::Mitch Birds::Femenino::Ciencias Básicas::Maestría::19/12/1961::Tiempo Completo-Cátedra-Ocasional::9::3
+3552038130::Rufus Pleaden::Femenino::Ciencias Básicas::Doctorado::05/01/1996::Tiempo Completo-Cátedra-Ocasional::3::12
+7046555462::Arleta Milson::Femenino::Comunicación::Especialista::05/12/1956::Tiempo Completo-Cátedra-Ocasional::5::9
+9755381118::Bertram Sheals::Femenino::Administración::Doctorado::04/06/1952::Tiempo Completo-Cátedra-Ocasional::5::19
+5399122461::Sayre Pavek::Femenino::Deportes::Especialista::12/10/1946::Tiempo Completo-Cátedra-Ocasional::10::4
